@@ -36,7 +36,7 @@ In conclusion, the Iris Flower Classification project provides a hands-on explor
 This project serves as an excellent starting point for those new to machine learning, offering practical insights into data preprocessing, model training, and performance evaluation. Feel free to explore the code, experiment with different models, and contribute to the project’s growth.
 
 ### How to Use the Code:
-The code is available in the associated GitHub repository https://github.com/Modassirnazar/OIBSIP_1. You can clone the repository, install the necessary dependencies, and run the provided script to experience the project firsthand.
+The code is available at [iris_flower_classification.py](iris_flower_classification.py). You can clone the repository, install the necessary dependencies, and run the provided script to experience the project firsthand.
 
 By engaging with this project, you’ll not only enhance your understanding of machine learning but also contribute to a valuable resource for others exploring this fascinating field.
 
