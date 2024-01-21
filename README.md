@@ -4,6 +4,7 @@ This GitHub repository houses the code and resources for the Iris Flower Classif
 ### Overview
 Machine learning plays a crucial role in various domains, from healthcare to finance and beyond. In this article, we’ll delve into a classic example of a machine-learning application: the Iris Flower Classification. We will explore the dataset, employ different machine-learning models, and discuss the insights gained from this fascinating project. This article contains code and resources for the Iris Flower Classification project. The objective of this project is to classify iris flowers into distinct species based on their sepal and petal measurements. The dataset used for training and evaluation is the well-known Iris dataset, consisting of samples from three iris species: Setosa, Versicolor, and Virginia.
 
+You can download the dataset here: [IRIS.CSV](IRIS.CSV)
 
 ### Data Exploration
 Before diving into machine learning models, let’s explore the dataset. We load the data into a pandas data frame, perform basic statistical analysis, and visualize the distribution of features. The Seaborn library helps us create informative visualizations, such as count plots and pair plots, which offer insights into the relationships between different features. The Iris dataset includes features such as sepal length, sepal width, petal length, and petal width. The data is split into training and testing sets for model evaluation.
@@ -38,6 +39,7 @@ This project serves as an excellent starting point for those new to machine lear
 ### How to Use the Code:
 The code is available at [iris_flower_classification.py](iris_flower_classification.py). You can clone the repository, install the necessary dependencies, and run the provided script to experience the project firsthand.
 
+You can also read the full article at [https://medium.com/@mn.zamindar/iris-flower-classification-using-ml-29277b18b233](https://medium.com/@mn.zamindar/iris-flower-classification-using-ml-29277b18b233)
 By engaging with this project, you’ll not only enhance your understanding of machine learning but also contribute to a valuable resource for others exploring this fascinating field.
 
 Happy coding!
