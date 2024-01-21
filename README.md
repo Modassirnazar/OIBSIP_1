@@ -21,9 +21,7 @@ We employ various machine learning models to classify the iris flowers based on 
 These models are trained and evaluated on a testing set to measure their accuracy. The scikit-learn library simplifies the implementation of these models, making it accessible even for those new to machine learning.
 
 ### Accuracy of different Models
-
-
-
+![](iris_1)
 
 ### Conclusion
 In conclusion, the Iris Flower Classification project provides a hands-on exploration of machine learning techniques. Through data exploration, model training, and visualization, we gain a deeper understanding of the dataset and the capabilities of various classification models.
